@@ -78,8 +78,8 @@ plt.show()
 ```
 
 ## Output:
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](image (1))
+![alt text](image-1 (1))
 
 
 ## Result:
